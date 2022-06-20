@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertJson2XML", "ConsoleApp1\ConvertJson2XML.csproj", "{5A9238CC-0B4D-4BCC-BF6E-8C3F45FD2A47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A9238CC-0B4D-4BCC-BF6E-8C3F45FD2A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A9238CC-0B4D-4BCC-BF6E-8C3F45FD2A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A9238CC-0B4D-4BCC-BF6E-8C3F45FD2A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A9238CC-0B4D-4BCC-BF6E-8C3F45FD2A47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F803476-6FE3-4C2E-925A-FCFE25351246}
+	EndGlobalSection
+EndGlobal
