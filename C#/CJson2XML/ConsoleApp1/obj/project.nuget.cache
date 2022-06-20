@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wG0puxNfVgnt/5VHJBZAfuDtTIc86h1yORc7KiCEwBPaWBEBsY9N220lar2+PdxFoaLAIs3KsCWC8UyRcXJBng==",
+  "dgSpecHash": "5yiIgN6wMlixylTXE3mFbWn8PLawzzyv+w84rDWQ1+AhELoG2w/STtXKIc+9MXt3s5amGsBvN87a7HkiO3rHLw==",
   "success": true,
-  "projectFilePath": "c:\\Prog2\\JSONtoDBF\\JSON2DBF\\C#\\CJson2XML\\ConsoleApp1\\ConvertJson2XML.csproj",
+  "projectFilePath": "C:\\LaboC#\\ConvertJSONtoXML\\CJson2XML\\ConsoleApp1\\ConvertJson2XML.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ezbru\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

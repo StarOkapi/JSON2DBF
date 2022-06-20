@@ -54,11 +54,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Prog2\\JSONtoDBF\\JSON2DBF\\C#\\CJson2XML\\ConsoleApp1\\ConvertJson2XML.csproj",
+      "projectUniqueName": "C:\\LaboC#\\ConvertJSONtoXML\\CJson2XML\\ConsoleApp1\\ConvertJson2XML.csproj",
       "projectName": "ConvertJson2XML",
-      "projectPath": "c:\\Prog2\\JSONtoDBF\\JSON2DBF\\C#\\CJson2XML\\ConsoleApp1\\ConvertJson2XML.csproj",
+      "projectPath": "C:\\LaboC#\\ConvertJSONtoXML\\CJson2XML\\ConsoleApp1\\ConvertJson2XML.csproj",
       "packagesPath": "C:\\Users\\ezbru\\.nuget\\packages\\",
-      "outputPath": "c:\\Prog2\\JSONtoDBF\\JSON2DBF\\C#\\CJson2XML\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\LaboC#\\ConvertJSONtoXML\\CJson2XML\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -112,7 +112,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
